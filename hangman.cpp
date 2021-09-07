@@ -105,3 +105,14 @@ int main(){
     }    
         return 0;   
 }
+
+
+mouse
+monitor
+keyboard
+apple
+wifi
+windows
+linux
+mac
+ubuntu
